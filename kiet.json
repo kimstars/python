@@ -1,0 +1,13 @@
+UserObject =(username,notes,id)
+
+
+UserObjectConnection{pageInfo, edges,  }
+
+
+{
+    _schema{
+        types{
+            fields
+        }
+    }
+}
